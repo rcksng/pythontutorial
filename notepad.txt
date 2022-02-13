@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 commit first time
 this is rocky branch commit
 this is rohan branch commit
+=======
+
+
+
+this is rocky branch commit
+this is singh branch commit
+>>>>>>> rocky
